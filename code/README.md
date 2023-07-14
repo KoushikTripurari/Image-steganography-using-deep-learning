@@ -83,6 +83,7 @@ This project is developed by:
 - Dinesh Vennapoosa
 - Sandeep Sirivuri
 - Maddula Krishna Sai Prakash
+- Koushik Tripurari
 
 ## Contact
 For any inquiries or questions, feel free to reach out to dinesh.vennapoosa@gmail.com
