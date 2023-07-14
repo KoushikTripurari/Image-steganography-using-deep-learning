@@ -1,0 +1,6 @@
+argparse
+matplotlib
+numpy
+Pillow
+tensorflow
+scikit-learn

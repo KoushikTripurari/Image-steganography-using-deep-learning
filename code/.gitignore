@@ -1,0 +1,47 @@
+# .gitignore
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# data files (uncomment this if you do not want to track your data files)
+#data/
+
+# If you're using a virtual environment
+venv/
+env/
+
+# PyCharm project settings
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Log files
+*.log
+
+# Other unwanted files
+*.bak
+*.swp
+*.tmp
+
+# Python dist / build
+dist/
+build/
+*.egg-info/
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.tox/
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
