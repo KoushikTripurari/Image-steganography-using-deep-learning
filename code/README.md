@@ -80,10 +80,11 @@ The output images will be saved in the `results/` folder. For `train.py` and `en
 ## Contributors
 This project is developed by:
 
+- Koushik Tripurari
 - Dinesh Vennapoosa
 - Sandeep Sirivuri
 - Maddula Krishna Sai Prakash
-- Koushik Tripurari
+  
 
 ## Contact
-For any inquiries or questions, feel free to reach out to dinesh.vennapoosa@gmail.com
+For any inquiries or questions, feel free to reach out to koushiktripurari1998@gmail.com
